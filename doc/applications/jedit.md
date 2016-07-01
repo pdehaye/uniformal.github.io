@@ -4,7 +4,7 @@ title: Setting up jEdit
 ---
 
 
-Installation instructions for the jEdit plugin can be found [here](../../setup/jedit.html)
+Installation instructions for the jEdit plugin can be found [here](../setup/jedit.html)
 
 ### Functionality
 
